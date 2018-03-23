@@ -2,9 +2,9 @@
 
 Você sabe o que é um chat bot?
 
-O chat bot na minha concepção serve para, de uma forma inteligente e dinâmica, apresentar informações detalhadas sobre o que seu serviço ou produto realiza. Ao invés do tradicional FAQ nos web sites, está sendo bem comum e aceito  a utilização de um chat que pode realizar uma conversa interativa com seu cliente e até com mais riqueza de detalhes.
+O chat bot serve para, de uma forma inteligente e dinâmica, apresentar informações detalhadas sobre o que seu serviço ou produto realiza. Ao invés do tradicional FAQ nos web sites, está sendo bem comum e aceito  a utilização de um chat que pode realizar uma conversa interativa com seu cliente e até com mais riqueza de detalhes e engajamento.
 
-Esse chat bot criado foi pensado para responder as dúvidas dos clientes de uma pizzaria fictícia.
+Esse chat bot criado foi pensado para responder as dúvidas dos clientes de uma pizzaria fictícia de uma forma bem dinâmica.
 
 Vamos começar?
 
@@ -12,4 +12,4 @@ Antes de começar será necessário baixar um bot framework emulator para que no
 
 Qual programa devo utilizar?
 
-Recomendo o Visual Studio, nele tem várias ferramentas para os desenvolvedores e consegue depurar rapido e testar rápido as aplicações, eu particularmente gosto bastante.
+Recomendo o Visual Studio, nele tem várias ferramentas para os desenvolvedores e consegue depurar rápido e testar as aplicações, eu particularmente gosto bastante.
